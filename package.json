@@ -20,6 +20,7 @@
   "author": "Thiago Porto",
   "license": "MIT",
   "dependencies": {
+    "prop-types": "^15.6.0",
     "react": ">=15.4.1",
     "react-native": ">=0.38.0",
     "string_score": "git+https://github.com/ThiagoNP/string_score.git"
